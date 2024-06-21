@@ -8,6 +8,15 @@ A modern, fully-featured scientific calculator built with React and styled-compo
 
 Check out the live demo: [Scientific Calculator](https://scientific-calculator-iota-eight.vercel.app/)
 
+### Picture of scintific-calculator
+**Dark Theme**
+![image](https://github.com/priyanshu692/scientific-calculator/assets/132814497/ad55c7a5-04f9-40d1-a752-6b9aee21179c)
+
+**Light Theme**
+![image](https://github.com/priyanshu692/scientific-calculator/assets/132814497/39969c82-5a93-40c4-8d34-6c5215d528dd)
+
+
+
 ## Features
 
 - **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
