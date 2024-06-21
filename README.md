@@ -1,22 +1,38 @@
-#Scientific Calculator
+# Scientific Calculator
+
+[![Vercel](https://vercelbadge.vercel.app/api/scientific-calculator-sage)](https://scientific-calculator-sage.vercel.app/)
 
 A modern, fully-featured scientific calculator built with React and styled-components, complete with a theme switcher and history feature.
 
-#Live Demo
-Check out the live demo: https://scientific-calculator-sage.vercel.app/
+## Live Demo
 
-#Features
-Basic Arithmetic: Addition, subtraction, multiplication, and division.
-Scientific Functions: Includes functions like square root, cube root, exponents, logarithms, trigonometric functions, and more.
-Memory Functions: Memory recall, memory clear, memory add, and memory subtract.
-Special Constants: π (Pi) and e (Euler's Number).
-Random Number Generation: Generate a random number between 0 and 1.
-Theme Switcher: Toggle between light and dark themes.
-Calculation History: View your past calculations.
-#Getting Started
-Prerequisites
-Node.js (>=14.x)
-npm (>=6.x) or yarn (>=1.x)
+Check out the live demo: [Scientific Calculator](https://scientific-calculator-sage.vercel.app/)
+
+## Features
+
+- **Basic Arithmetic:** Addition, subtraction, multiplication, and division.
+- **Scientific Functions:** Includes functions like square root, cube root, exponents, logarithms, trigonometric functions, and more.
+- **Memory Functions:** Memory recall, memory clear, memory add, and memory subtract.
+- **Special Constants:** `π` (Pi) and `e` (Euler's Number).
+- **Random Number Generation:** Generate a random number between 0 and 1.
+- **Theme Switcher:** Toggle between light and dark themes.
+- **Calculation History:** View your past calculations.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (>=14.x)
+- npm (>=6.x) or yarn (>=1.x)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/scientific-calculator.git
+   cd scientific-calculator
+
 #Installation
 Clone the repository:
 git clone https://github.com/your-username/scientific-calculator.git
