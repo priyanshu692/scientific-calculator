@@ -1,4 +1,4 @@
-// src/App.js
+
 import React from "react";
 import Calculator from "./components/Calculator";
 import { ThemeProvider, useTheme } from "./components/ThemeContext";
