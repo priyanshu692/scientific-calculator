@@ -1,12 +1,12 @@
 # Scientific Calculator
 
-[![Vercel](https://vercelbadge.vercel.app/api/scientific-calculator-sage)](https://scientific-calculator-sage.vercel.app/)
+[![Vercel](https://vercelbadge.vercel.app/api/scientific-calculator-sage)](https://scientific-calculator-iota-eight.vercel.app/)
 
 A modern, fully-featured scientific calculator built with React and styled-components, complete with a theme switcher and history feature.
 
 ## Live Demo
 
-Check out the live demo: [Scientific Calculator](https://scientific-calculator-sage.vercel.app/)
+Check out the live demo: [Scientific Calculator](https://scientific-calculator-iota-eight.vercel.app/)
 
 ## Features
 
