@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+#Scientific Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, fully-featured scientific calculator built with React and styled-components, complete with a theme switcher and history feature.
 
-## Available Scripts
+#Live Demo
+Check out the live demo: https://scientific-calculator-sage.vercel.app/
 
-In the project directory, you can run:
+#Features
+Basic Arithmetic: Addition, subtraction, multiplication, and division.
+Scientific Functions: Includes functions like square root, cube root, exponents, logarithms, trigonometric functions, and more.
+Memory Functions: Memory recall, memory clear, memory add, and memory subtract.
+Special Constants: π (Pi) and e (Euler's Number).
+Random Number Generation: Generate a random number between 0 and 1.
+Theme Switcher: Toggle between light and dark themes.
+Calculation History: View your past calculations.
+#Getting Started
+Prerequisites
+Node.js (>=14.x)
+npm (>=6.x) or yarn (>=1.x)
+#Installation
+Clone the repository:
+git clone https://github.com/your-username/scientific-calculator.git
+cd scientific-calculator
 
-### `npm start`
+Install the dependencies:
+npm install
+yarn install
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Running the App
+To start the development server:
+npm start
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+yarn start
+Open http://localhost:3000 to view it in your browser.
 
-### `npm test`
+Building for Production
+To create a production build:
+npm run build
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+yarn build
+The production-ready files will be in the build directory.
 
-### `npm run build`
+Project Structure
+src
+components: Contains the React components like Calculator, Button, Display, and Confetti.
+styles: Styled-components for consistent styling.
+ThemeContext.js: Context for handling theme switching.
+Technologies Used
+React: A JavaScript library for building user interfaces.
+styled-components: For styling React components.
+mathjs: A comprehensive math library for JavaScript and Node.js.
+Confetti: For celebratory animations.
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any bugs, enhancements, or features.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Fork the repository
+Create your feature branch (git checkout -b feature/YourFeature)
+Commit your changes (git commit -m 'Add some feature')
+Push to the branch (git push origin feature/YourFeature)
+Open a pull request
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Contact
+If you have any questions or feedback, feel free to reach out:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Email: your-priyanshukushwah516@gmail.com
+GitHub: your-priyanshu692
