@@ -27,58 +27,46 @@ Check out the live demo: [Scientific Calculator](https://scientific-calculator-s
 
 ### Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/scientific-calculator.git
+   
+   git clone https://github.com/priyanshu692/scientific-calculator.git
    cd scientific-calculator
 
-#Installation
+### Installation
 Clone the repository:
-git clone https://github.com/your-username/scientific-calculator.git
+git clone https://github.com/priyanshu692/scientific-calculator.git
 cd scientific-calculator
 
-Install the dependencies:
+### Install the dependencies:
 npm install
 yarn install
 
-Running the App
+### Running the App
 To start the development server:
 npm start
 
-yarn start
+###  yarn start
 Open http://localhost:3000 to view it in your browser.
 
-Building for Production
-To create a production build:
-npm run build
 
-yarn build
-The production-ready files will be in the build directory.
+### Project Structure
+**src**
+**components**: Contains the React components like Calculator, Button, Display, and Confetti.
+**styles:** Styled-components for consistent styling.
+**ThemeContext.js:** Context for handling theme switching.
 
-Project Structure
-src
-components: Contains the React components like Calculator, Button, Display, and Confetti.
-styles: Styled-components for consistent styling.
-ThemeContext.js: Context for handling theme switching.
-Technologies Used
-React: A JavaScript library for building user interfaces.
-styled-components: For styling React components.
-mathjs: A comprehensive math library for JavaScript and Node.js.
-Confetti: For celebratory animations.
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any bugs, enhancements, or features.
+### Technologies Used
+**React:** A JavaScript library for building user interfaces.
+**styled-components:** For styling React components.
+**mathjs:** A comprehensive math library for JavaScript and Node.js.
+**Confetti:** For celebratory animations.
 
-Fork the repository
-Create your feature branch (git checkout -b feature/YourFeature)
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature/YourFeature)
-Open a pull request
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
+### Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: your-priyanshukushwah516@gmail.com
-GitHub: your-priyanshu692
+**Email:** your-priyanshukushwah516@gmail.com
+**GitHub:** your-priyanshu692
